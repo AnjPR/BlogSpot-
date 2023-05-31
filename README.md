@@ -1,4 +1,5 @@
-# ReverieTale
+#BlogSpot
+### ReverieTale
 ### Blog to embrace and relish the forgetting cultures
 In the realm of forgotten cultures, where the echoes of the past gently fade away, there exists a digital haven called ReverieTale. This enchanting website is a heartfelt invitation to embrace and relish the beauty of cultures long overlooked and fading into obscurity.
 
